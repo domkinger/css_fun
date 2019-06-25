@@ -11,12 +11,17 @@ body {
 }
 
 .logo {
-    padding: 3em;
-    width: 32%;
+    position: absolute;
+    width: 5%;
+}
+
+.tech_group {
+    position: relative;
+    top: 150px;
+    width: 50%;
 }
 
 .tech_graphic {
-    width: 80%;
     position: absolute;
     display: block;
     margin-left: auto;
